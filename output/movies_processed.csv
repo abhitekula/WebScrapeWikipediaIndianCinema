@@ -1,4 +1,4 @@
-
+Movie, Artist
 Zindagi 1940, Pankaj Mullick|
 Bandhan 1940, Saraswati Devi|Kavi Pradeep|
 Achhut 1940, Gyan Dutt|
@@ -117,22 +117,22 @@ Jeevan Mrityu 1970, Laxmikant-Pyarelal|
 Kati Patang 1970, Rahul Dev Burman|
 Haathi Mera Saathi 1971, Laxmikant-Pyarelal|
 Mera Gaon Mera Desh 1971, Laxmikant-Pyarelal|
-Dushman 1971, Laxmikant–Pyarelal|Anand Bakshi|
-Maryada 1971, Kalyanji–Anandji|
+Dushman 1971, Laxmikantâ€“Pyarelal|Anand Bakshi|
+Maryada 1971, Kalyanjiâ€“Anandji|
 Andaz 1971, Shankar-Jaikishan|Hasrat Jaipuri|
 Seeta Aur Geeta 1972, R. D. Burman|
 Pakeezah 1972, Ghulam Mohammed|Naushad Ali|
-Raja Jani 1972, Laxmikant–Pyarelal|
+Raja Jani 1972, Laxmikantâ€“Pyarelal|
 Beimaan 1972, Shankar Jaikishan|
-Gora Aur Kala 1972, Laxmikant–Pyarelal|
+Gora Aur Kala 1972, Laxmikantâ€“Pyarelal|
 Apna Desh 1972, R. D. Burman|Anand Bakshi|
-Bobby 1973, Laxmikant–Pyarelal|
+Bobby 1973, Laxmikantâ€“Pyarelal|
 Jugnu 1973, Sachin Dev Burman|
 Daag 1973, Laxmikant Pyarelal|
 Zanjeer 1973, Kalyanji-Anandji|
 Yaadon Ki Baraat 1973, R. D. Burman|
 Kahaani Kismat Ki 1973, Kalyanji-Anandji|
-Loafer 1973, Laxmikant–Pyarelal|
+Loafer 1973, Laxmikantâ€“Pyarelal|
 Roti Kapada Aur Makaan 1974, Laxmikant-Pyarelal|
 Chor Machaye Shor 1974, Ravindra Jain|
 Dost 1974, Laxmikant-Pyarelal|Anand Bakshi|
@@ -140,7 +140,7 @@ Prem Nagar 1974, Sachin Dev Burman|
 Sholay 1975, R. D. Burman|
 Jai Santoshi Maa 1975, 
 Sanyasi 1975, Shankar Jaikishan|
-Deewaar 1975, Rahul Dev Burman|
+Deewaar 1975, 
 Pratiggya 1975, Laxmikant-Pyarelal|
 Dharmatma 1975, Master Krishnarao|
 Dus Numbri 1976, Laxmikant-Pyarelal|
@@ -219,7 +219,7 @@ Khalnayak 1993, Laxmikant-Pyarelal|
 Darr 1993, Shiv-Hari|
 Hum Aapke Hain Kaun 1994, Raamlaxman|
 Mohra 1994, Viju Shah|
-Dilwale Dulhania Le Jayenge 1995, Jatin–Lalit|
+Dilwale Dulhania Le Jayenge 1995, Jatinâ€“Lalit|
 Karan Arjun 1995, Rajesh Roshan|
 Coolie No1 1995, Anand-Milind|
 Raja Hindustani 1996, Nadeem-Shravan|Surinder Sodhi|
@@ -258,7 +258,7 @@ Devdas 2002, Ismail Darbar|Monty Sharma|
 Raaz 2002, Nadeem-Shravan|
 Kaante 2002, Anand Raj Anand|Vishal-Shekhar|Lucky Ali|
 Koi Mil Gaya 2003, Rajesh Roshan|
-Kal Ho Na Ho 2003, Shankar–Ehsaan–Loy|
+Kal Ho Na Ho 2003, Shankarâ€“Ehsaanâ€“Loy|
 The Hero 2003, 
 Veer Zaara 2004, Madan Mohan|
 Main Hoon Na 2004, Anu Malik|
@@ -279,7 +279,7 @@ Om Shanti Om 2007, Vishal-Shekhar|Sandeep Chowta|Pyarelal Ramprasad Sharma|
 Welcome 2007, Sajid-Wajid|
 Chak De India 2007, Salim-Sulaiman|
 Partner 2007, Sajid-Wajid|
-Taare Zameen Par 2007, Shankar–Ehsaan–Loy|
+Taare Zameen Par 2007, Shankarâ€“Ehsaanâ€“Loy|
 Bhool Bhulaiyaa 2007, Pritam|Ranjit Barot|
 Heyy Babyy 2007, Shankar-Ehsaan-Loy|
 Guru 2007, A. R. Rahman|
@@ -290,7 +290,7 @@ Race 2008, Pritam|Salim-Sulaiman|
 Jodhaa Akbar 2008, A. R. Rahman|
 Jaane Tu... Ya Jaane Na 2008, A. R. Rahman|
 Golmaal Returns 2008, Pritam|
-Dostana 2008, Vishal–Shekhar|Salim–Sulaiman|
+Dostana 2008, Vishalâ€“Shekhar|Salimâ€“Sulaiman|
 Three Idiots 2009, Shantanu Moitra|
 Love Aaj Kal 2009, Pritam|Salim-Sulaiman|
 Ajab Prem Ki Ghazab Kahani 2009, Pritam|Salim-Sulaiman|
@@ -303,7 +303,7 @@ My Name Is Khan 2010, Shankar-Ehsaan-Loy|
 Tees Maar Khan 2010, Vishal-Shekhar|
 Once Upon A Time In Mumbaai 2010, Pritam|Sandeep Shirodkar|
 Kites 2010, Rajesh Roshan|Salim Sulaiman|
-I Hate Luv Storys 2010, Vishal–Shekhar|Salim Sulaiman|[1]|
-Anjaana Anjaani 2010, Vishal–Shekhar|Salim–Sulaiman|
+I Hate Luv Storys 2010, Vishalâ€“Shekhar|Salim Sulaiman|[1]|
+Anjaana Anjaani 2010, Vishalâ€“Shekhar|Salimâ€“Sulaiman|
 Khatta Meetha 2010, Pritam|Shehzad Roy|Ouseppachan|
 Veer (Hindi) 2010, 
