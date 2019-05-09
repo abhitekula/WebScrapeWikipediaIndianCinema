@@ -1,5 +1,5 @@
 # Voices of Bollywood
-## CWL 207 Honors Projecy
+## CWL 207 Honors Project
 ### By: Abhinav Tekulapally and Teagan Mathur
 
 ## Introduction
