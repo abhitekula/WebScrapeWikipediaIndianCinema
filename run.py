@@ -4,6 +4,10 @@ from bs4 import BeautifulSoup
 import re
 import os
 
+filename = "movies.txt"
+if len(sys.argv) > 1:
+    filename = sys.argv[1]
+
 # Map of artist name to number of movies they are in by decade (2000, 2010, 1920, 1930,.....1990)
 maps = [{} for i in range(0,10)]
 if not os.path.exists('output'):
@@ -22,7 +26,7 @@ def parse_request(url, artists):
         artists.append(name.string)
 
 failed = 0
-with open('../movies.txt','r') as fh, open('movies_processed.csv', 'w') as out_file:
+with open('../' + filename,'r') as fh, open('movie_to_artist.csv', 'w') as out_file:
     out_file.write('Movie, Artist')
     for line in fh:
         out_file.write('\n')
