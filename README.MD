@@ -39,3 +39,7 @@ Run the command in a terminal
 ```
 ./run [path/to/movies.txt]
 ```
+
+## Libraries Used
+* Beautiful Soup 4
+* Requests
