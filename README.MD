@@ -15,9 +15,9 @@ We compiled a list of movies and put it in the files movies.txt
 
 We then made a python script that reads every entry in this file and queries wikipedia for the top result with that name.
 
-If Wikipedia has an article for that movie the script automatically loads the article and retries the Artist for that movie.
+If Wikipedia has an article for that movie the script automatically loads the article and retrieves the Artist for that movie.
 
-The script creates a directory called output and outputs a csv corresponding the movie name to the artists for the film. Additionally, the script outputs a csv for each decade and corressponds the artists to the number of films they were in in that decade.
+The script creates a directory called output and outputs a csv corresponding each film name to the artists for the film. Additionally, the script outputs a csv for each decade and corressponds each artists to the number of films they were in in that decade.
 
 ## Running the script
 
